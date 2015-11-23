@@ -1,0 +1,5 @@
+C:\Users\MIMI\Documents\GitHub\SoftUni-OOP-November-2015\Homework-DefiningClasses\2. Laptop Shop\bin\Debug\_2.Laptop_Shop.exe.config
+C:\Users\MIMI\Documents\GitHub\SoftUni-OOP-November-2015\Homework-DefiningClasses\2. Laptop Shop\bin\Debug\_2.Laptop_Shop.exe
+C:\Users\MIMI\Documents\GitHub\SoftUni-OOP-November-2015\Homework-DefiningClasses\2. Laptop Shop\bin\Debug\_2.Laptop_Shop.pdb
+C:\Users\MIMI\Documents\GitHub\SoftUni-OOP-November-2015\Homework-DefiningClasses\2. Laptop Shop\obj\Debug\_2.Laptop_Shop.exe
+C:\Users\MIMI\Documents\GitHub\SoftUni-OOP-November-2015\Homework-DefiningClasses\2. Laptop Shop\obj\Debug\_2.Laptop_Shop.pdb

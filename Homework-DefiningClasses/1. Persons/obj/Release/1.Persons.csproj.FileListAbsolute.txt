@@ -1,0 +1,7 @@
+C:\Users\MIMI\Documents\GitHub\SoftUni-OOP-November-2015\Homework-DefiningClasses\1. Persons\bin\Release\_1.Persons.exe.config
+C:\Users\MIMI\Documents\GitHub\SoftUni-OOP-November-2015\Homework-DefiningClasses\1. Persons\bin\Release\_1.Persons.exe
+C:\Users\MIMI\Documents\GitHub\SoftUni-OOP-November-2015\Homework-DefiningClasses\1. Persons\bin\Release\_1.Persons.pdb
+C:\Users\MIMI\Documents\GitHub\SoftUni-OOP-November-2015\Homework-DefiningClasses\1. Persons\bin\Release\_1.Persons.exe.CodeAnalysisLog.xml
+C:\Users\MIMI\Documents\GitHub\SoftUni-OOP-November-2015\Homework-DefiningClasses\1. Persons\bin\Release\_1.Persons.exe.lastcodeanalysissucceeded
+C:\Users\MIMI\Documents\GitHub\SoftUni-OOP-November-2015\Homework-DefiningClasses\1. Persons\obj\Release\_1.Persons.exe
+C:\Users\MIMI\Documents\GitHub\SoftUni-OOP-November-2015\Homework-DefiningClasses\1. Persons\obj\Release\_1.Persons.pdb

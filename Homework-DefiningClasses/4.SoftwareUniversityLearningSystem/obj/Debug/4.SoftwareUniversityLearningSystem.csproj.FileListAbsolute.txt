@@ -1,0 +1,5 @@
+C:\Users\MIMI\Documents\GitHub\SoftUni-OOP-November-2015\Homework-DefiningClasses\4.SoftwareUniversityLearningSystem\bin\Debug\4.SoftwareUniversityLearningSystem.exe.config
+C:\Users\MIMI\Documents\GitHub\SoftUni-OOP-November-2015\Homework-DefiningClasses\4.SoftwareUniversityLearningSystem\bin\Debug\4.SoftwareUniversityLearningSystem.exe
+C:\Users\MIMI\Documents\GitHub\SoftUni-OOP-November-2015\Homework-DefiningClasses\4.SoftwareUniversityLearningSystem\bin\Debug\4.SoftwareUniversityLearningSystem.pdb
+C:\Users\MIMI\Documents\GitHub\SoftUni-OOP-November-2015\Homework-DefiningClasses\4.SoftwareUniversityLearningSystem\obj\Debug\4.SoftwareUniversityLearningSystem.exe
+C:\Users\MIMI\Documents\GitHub\SoftUni-OOP-November-2015\Homework-DefiningClasses\4.SoftwareUniversityLearningSystem\obj\Debug\4.SoftwareUniversityLearningSystem.pdb
