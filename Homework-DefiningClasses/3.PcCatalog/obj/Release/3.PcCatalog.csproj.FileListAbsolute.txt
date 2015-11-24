@@ -1,7 +1,0 @@
-C:\Users\MIMI\Documents\GitHub\SoftUni-OOP-November-2015\Homework-DefiningClasses\3.PcCatalog\bin\Release\3.PcCatalog.exe.config
-C:\Users\MIMI\Documents\GitHub\SoftUni-OOP-November-2015\Homework-DefiningClasses\3.PcCatalog\bin\Release\3.PcCatalog.exe
-C:\Users\MIMI\Documents\GitHub\SoftUni-OOP-November-2015\Homework-DefiningClasses\3.PcCatalog\bin\Release\3.PcCatalog.pdb
-C:\Users\MIMI\Documents\GitHub\SoftUni-OOP-November-2015\Homework-DefiningClasses\3.PcCatalog\bin\Release\3.PcCatalog.exe.CodeAnalysisLog.xml
-C:\Users\MIMI\Documents\GitHub\SoftUni-OOP-November-2015\Homework-DefiningClasses\3.PcCatalog\bin\Release\3.PcCatalog.exe.lastcodeanalysissucceeded
-C:\Users\MIMI\Documents\GitHub\SoftUni-OOP-November-2015\Homework-DefiningClasses\3.PcCatalog\obj\Release\3.PcCatalog.exe
-C:\Users\MIMI\Documents\GitHub\SoftUni-OOP-November-2015\Homework-DefiningClasses\3.PcCatalog\obj\Release\3.PcCatalog.pdb

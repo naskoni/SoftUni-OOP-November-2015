@@ -1,5 +1,0 @@
-C:\Users\MIMI\Documents\GitHub\SoftUni-OOP-November-2015\Homework-DefiningClasses\3.PcCatalog\bin\Debug\3.PcCatalog.exe.config
-C:\Users\MIMI\Documents\GitHub\SoftUni-OOP-November-2015\Homework-DefiningClasses\3.PcCatalog\bin\Debug\3.PcCatalog.exe
-C:\Users\MIMI\Documents\GitHub\SoftUni-OOP-November-2015\Homework-DefiningClasses\3.PcCatalog\bin\Debug\3.PcCatalog.pdb
-C:\Users\MIMI\Documents\GitHub\SoftUni-OOP-November-2015\Homework-DefiningClasses\3.PcCatalog\obj\Debug\3.PcCatalog.exe
-C:\Users\MIMI\Documents\GitHub\SoftUni-OOP-November-2015\Homework-DefiningClasses\3.PcCatalog\obj\Debug\3.PcCatalog.pdb
