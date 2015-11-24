@@ -59,7 +59,6 @@
     <Compile Include="Geometry.Storage\GeometryXMLStorage.cs" />
     <Compile Include="Geometry.UI\Screen2D.cs" />
     <Compile Include="Geometry.UI\Screen3D.cs" />
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
