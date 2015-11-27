@@ -1,8 +1,9 @@
 ﻿using System;
+using _4.SoftwareUniversityLearningSystem.Interfaces;
 
 namespace _4.SoftwareUniversityLearningSystem
 {
-    class DropoutStudent : Student
+    class DropoutStudent : Student, IReApply
     {
         private string dropoutReason;
 

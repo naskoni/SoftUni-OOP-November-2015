@@ -1,12 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using _4.SoftwareUniversityLearningSystem.Interfaces;
 
 namespace _4.SoftwareUniversityLearningSystem
 {
-    abstract class Trainer : Person
+    abstract class Trainer : Person, ICreate
     {
         protected Trainer(string firstName, string lastName, int age)
             : base(firstName, lastName, age)

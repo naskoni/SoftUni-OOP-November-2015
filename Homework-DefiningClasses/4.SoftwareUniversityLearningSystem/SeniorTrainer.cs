@@ -1,12 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using _4.SoftwareUniversityLearningSystem.Interfaces;
 
 namespace _4.SoftwareUniversityLearningSystem
 {
-    class SeniorTrainer : Trainer
+    class SeniorTrainer : Trainer, IDelete
     {
         public SeniorTrainer(string firstName, string lastName, int age) 
             : base(firstName, lastName, age)

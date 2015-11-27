@@ -24,8 +24,16 @@ namespace _4.SoftwareUniversityLearningSystem
                 new OnlineStudent("Smilen", "Svilenov", 45, 000231, 3.80, "OOP"),
             };
 
-            SULSdata.OfType<CurrentStudent>().OrderBy(s => s.AverageGrade).ToList()
+            SULSdata.OfType<CurrentStudent>()
+                .OrderBy(s => s.AverageGrade)
+                .ToList()
                 .ForEach(Console.WriteLine);
+
+            Console.WriteLine();
+
+            SULSdata.OfType<DropoutStudent>()
+                .ToList()
+                .ForEach(s => s.ReApply());
         }
     }
 }
